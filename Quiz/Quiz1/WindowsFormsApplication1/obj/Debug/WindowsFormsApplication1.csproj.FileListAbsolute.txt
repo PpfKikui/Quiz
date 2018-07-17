@@ -1,0 +1,12 @@
+D:\Data\Quiz\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Data\Quiz\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Data\Quiz\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Data\Quiz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Data\Quiz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Data\Quiz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Data\Quiz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Data\Quiz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Data\Quiz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Data\Quiz\Quiz1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Data\Quiz\Quiz1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Data\Quiz\Quiz1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
